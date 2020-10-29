@@ -1,0 +1,71 @@
+h1
+{
+    text-align:center;
+    font-family:'Times New Roman';
+}
+
+.card {
+
+    border: 1px solid gainsboro;
+    padding:0 0 0 0;
+margin-left:auto;
+margin-right:auto;
+
+
+   border-width:10px;
+    
+   
+  
+
+   } 
+
+#img2
+   {
+     width:100%;
+  height:50%;
+   }
+
+  
+
+  html, body {
+
+    overflow-x: hidden;
+    padding-left:2rem;
+    padding-right:2rem;
+}
+
+  h2{
+    text-align: center;
+}
+
+  h1{
+      font-size: 1.5rem;
+      font-weight : 300px;
+    text-align : left;
+    color: black;
+  }
+  img{
+       
+       margin-left:auto;
+     
+      
+      
+      width: 60px;
+      height: 8vh;
+      
+  }
+  
+/* 
+  
+ @media screen and (max-width: 320px) {
+  .card {
+  width:100%;
+  }
+}
+
+@media screen and (min-width: 900px) {
+  .card {
+    flex: 1 1 calc(33% - 2rem);
+  }
+} */
+
